@@ -13,3 +13,7 @@ This ongoing controversy over privacy issues has led Google to face a second ant
 According to the article, Google’s ad-selling tools for publishers control 87 percent of the U.S. market, according to the government. The Justice Department says that, overall, Google’s technology for selling ads across the web brought in about $31.7 billion in 2021.
 
 This is a very interesting topic, as Europe previously passed the Digital Services Act, enforcing privacy regulations. Now, the U.S. is beginning to raise concerns over privacy and a monopolized ad industry. If a privacy enforcement act is passed, could it lead to a series of events resulting in stronger privacy regulations in the United States? Worldwide?
+
+## 3. Comments by Hugo Bray
+
+I think this is a super topical issue and we should try to add as any guardrails as possible to ensure user data is protected.
